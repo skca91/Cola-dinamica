@@ -1,0 +1,10 @@
+12,Maria Carlota,24
+35,Juana La Cubana,32
+10,Juan Binbas,23
+35,Juana La Cubana,32
+28,Pedro Mendez,56
+19,Carlos Parra,89
+26,Karina Mora,45
+16,Lili Moster,47
+28,Pedro Mendez,56
+35,Juana La Cubana,32
